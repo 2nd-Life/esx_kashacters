@@ -4,10 +4,6 @@
 
 > I only rework the design of the script and added a few new displays in character selection
 
-## Code Samples
-
-> You can edit it all you want, this release is not my main priority for coding so support for this will be limited but if you have any questions just send a message to **KASH#0205** on Discord (you  might need to add me first).
-
 ## Installation
 
 > First of all to get this working you need to comment out the `NetworkIsSessionStarted()` Citizen.CreateThread() in *essentialmode\client\main.lua* on line *6 - 16*
